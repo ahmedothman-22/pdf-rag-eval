@@ -53,7 +53,7 @@ pdf-rag-eval/
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/ahmedothman-22/pdf-rag-eval.git](https://github.com/ahmedothman-22/pdf-rag-eval.git)
+git clone https://github.com/ahmedothman-22/pdf-rag-eval.git
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
